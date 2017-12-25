@@ -1,20 +1,20 @@
 /**
  * Project Name:huangleia
  * File Name:VIP.java
- * Package Name:hl20171225
- * Date:2017年12月25日下午10:47:44
+ * Package Name:hl20171226
+ * Date:2017年12月25日下午10:56:43
  * Copyright (c) 2017, bluemobi All Rights Reserved.
  */
 
 package hl20171225;
 
-import java.util.Scanner;
-
 import hl20171225.VIP;
+
+import java.util.Scanner;
 
 /**
  * Description:   <br/>
- * Date:     2017年12月25日 下午10:47:44 <br/>
+ * Date:     2017年12月25日 下午10:56:43 <br/>
  * @author   huanglei
  * @version
  * @see
@@ -77,6 +77,8 @@ public class VIP {
     
 }
     
+
+
 
 
 

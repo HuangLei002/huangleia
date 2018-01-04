@@ -1,0 +1,20 @@
+1.查看jdk api，列出String对象有哪些属性、方法，并写出使用示例（五个方法）
+  String继承于Object类。
+  String 类包括的方法可用于检查序列的单个字符、比较字符串、搜索字符串、
+  提取子字符串、创建字符串副本并将所有字符全部转换为大写或小写。
+  已经实现的接口有Sealizable, CharSequence, Comparable<String>
+2.属性：
+         constructor 属性
+         length 属性（字符串）
+         prototype 属性
+3. 方法摘要:(1)charAt(int index)
+                                             返回制定索引处的char值，返回值的类型为char
+          (2)hasCode()
+                                             返回此字符串的哈希码，返回值类型为int类型
+          (3)indexOf(int ch)
+                                               返回指定字符在此字符串中第一次出现处的索引。返回值类型为int类型
+          (4)indexOf(int ch, int fromIndex)
+                                                返回在此字符串中第一次出现指定字符处的索引，从指定的索引开始搜索。
+                                                       返回值类型为in类型
+          (5)isEmpty()
+                                                  当且仅当 length() 为 0 时返回 true。返回值为布尔类型。
